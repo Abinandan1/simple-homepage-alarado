@@ -245,7 +245,7 @@ hr {
     z-index: 1;
   }
 }
-@media (width>768px) {
+@media (width>1280px) {
   .nav-center {
     padding: 0 4rem;
   }
